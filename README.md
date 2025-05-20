@@ -30,3 +30,4 @@ A Python + Selenium test suite using `pytest` to validate login functionality on
 Jacob Simpson – QA Engineer  
 https://github.com/jacobsimpsonQA
 # pytest-login-suite
+# pytest-login-suite
